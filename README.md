@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IT engenier
 -----------
 
-* 🌍  I'm based in Chile
+* 🌍  I'm from in Concepcion, Chile
 * ✉️  You can contact me at [mmpazpezo@gmail.com](mailto:mmpazpezo@gmail.com)
-* 🧠  I'm learning Python and C++
+* 🧠  I'm learning Python, Java and C++
 * 🤝  I'm open to collaborating on some one project related to mathematics and physics simulations
 
 <a href="https://www.github.com/MarceloPazPezo" target="_blank" rel="noreferrer"><img
