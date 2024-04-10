@@ -9,9 +9,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-* 🌍  I'm from in Concepcion, Chile
+* 🌍  I'm from Concepcion, Chile
 * ✉️  You can contact me at [mmpazpezo@gmail.com](mailto:mmpazpezo@gmail.com)
-* 🧠  I'm learning Python, Java and C++
+* 🧠  I'm learning Latex, Python, Java and C++.
 
 <a href="https://www.github.com/MarceloPazPezo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MarceloPazPezo?logo=github&style=for-the-badge&color=7500F7&labelColor=171717" /></a>
