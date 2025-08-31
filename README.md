@@ -10,30 +10,18 @@
 
 ## 🚀 Sobre Mí
 
-Soy estudiante del **Magíster en Ciencias de la Computación** (1/4 semestres) en la **Universidad del Bio-Bio**, Chile. Actualmente estoy finalizando mi pregrado en **Ingeniería Civil en Informática** (9/10 semestres) en la misma institución.
+Estudiante de **Ingeniería Civil en Informática** (9/10 semestres) y un **Magíster en Ciencias de la Computación** (1/4 semestres) en la **Universidad del Bio-Bio**, Chile.
 
 Me emociona la resolución de problemas complejos y la intersección entre las matemáticas y la programación.
 
 - 🌍 Soy de Chile.
-- 🎓 Estudiante de Magíster en Ciencias de la Computación.
-- 🎓 Finalizando Ingeniería Civil en Informática en la [Universidad del Bio-Bio](https://www.ubiobio.cl/).
 - 🧠 Interesado en Algoritmos, Teoría de la Computación, Matemática Discreta y un poco de desarrollo.
+- 🔥 Tengo en mente el trabajar un tiempo en la investigacion relacionada al areas de incendios forestales y tecnologia (lo malo es que no se por donde partir jaja), sobre todo para realizar una tesis para completar el magister que curso actualmente y satisfacer mis ansias por aprender cosas nuevas y que suene complejas.
 - 📫 Contáctame en: [mmpazpezo@gmail.com](mailto:mmpazpezo@gmail.com)
 
 ---
 
 ## 🌟 Proyectos Destacados
-
-Estos son algunos de los proyectos en los que he trabajado.
-
-<div align="center">
-  <a href="https://github.com/MarceloPazPezo/Sistema_Web_Bomberos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarceloPazPezo&repo=Sistema_Web_Bomberos&theme=midnight-purple&bg_color=0D1117&title_color=7500F7&icon_color=F8D866" alt="Sistema Web Bomberos">
-  </a>
-  <a href="https://github.com/MarceloPazPezo/MyRepo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarceloPazPezo&repo=MyRepo&theme=midnight-purple&bg_color=0D1117&title_color=7500F7&icon_color=F8D866" alt="Apuntes con LaTeX">
-  </a>
-</div>
 
 ### 🚒 Sistema Web de Gestión Operativa para Bomberos
 Un sistema web diseñado para optimizar la gestión de recursos y operaciones de compañías de bomberos.
@@ -50,7 +38,7 @@ Divido mis habilidades en lenguajes que manejo y herramientas que utilizo frecue
 ### Lenguajes de Programación
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" /></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="48" height="48" alt="C" /></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="48" height="48" /></a>
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="48" height="48" alt="Java" /></a>
 </p>
 
@@ -64,33 +52,3 @@ Divido mis habilidades en lenguajes que manejo y herramientas que utilizo frecue
 </p>
 
 ---
-
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="MarceloPazPezo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=MarceloPazPezo&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=7500F7&icon_color=F8D866" height="192px"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="MarceloPazPezo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MarceloPazPezo&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=7500F7&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-  </a>
-</div>
-
-<p align="center">
-  <b>Nota:</b> "Top Languages" indica los lenguajes más usados en mis repositorios públicos, no refleja mi nivel de habilidad profesional.
-</p>
-
----
-
-## 📫 Conecta Conmigo
-
-<p align="left"> 
-  <a href="https://www.github.com/MarceloPazPezo" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/> 
-    </picture> 
-  </a>
-  &nbsp;
-  </p>
